@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,1lou.info
 DOMAIN-KEYWORD,1lou.info
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-KEYWORD,subhd.tv
+DOMAIN-SUFFIX,east-plus
+DOMAIN-KEYWORD,east-plus
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
